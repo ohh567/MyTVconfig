@@ -1,25 +1,30 @@
 {
   "cache_time": 7200,
   "api_site": {
+    "feimao.love": {
+      "name": "🚀肥猫线路(全能/高清)",
+      "api": "https://ggbox.de5.net/?url=http://我不是.肥猫.love:63/接口禁止贩卖",
+      "detail": "http://feimao.best"
+    },
+    "xxooo.cf": {
+      "name": "🚀饭太硬(经典/稳定)",
+      "api": "https://ggbox.de5.net/?url=http://fan.xxooo.cf/tv",
+      "detail": "http://fan.xxooo.cf"
+    },
+    "huichunniao.4k": {
+      "name": "🎬4K影音天堂(画质党)",
+      "api": "https://ggbox.de5.net/?url=https://www.huichunniao.cn/vip/4k/t.json",
+      "detail": "https://www.huichunniao.cn"
+    },
     "lzcaiji.com": {
-      "name": "💎量子资源(4K/极速)",
+      "name": "💎量子资源(秒开/4K)",
       "api": "https://ggbox.de5.net/?url=https://cj.lzcaiji.com/api.php/provide/vod",
       "detail": "https://cj.lzcaiji.com"
     },
     "hhzyapi.com": {
-      "name": "🎬豪华资源(无水蓝光)",
+      "name": "🎬豪华资源(无水印蓝光)",
       "api": "https://ggbox.de5.net/?url=https://hhzyapi.com/api.php/provide/vod",
       "detail": "https://hhzyapi.com"
-    },
-    "guangsuapi.com": {
-      "name": "⚡光速资源(高清专线)",
-      "api": "https://ggbox.de5.net/?url=https://api.guangsuapi.com/api.php/provide/vod",
-      "detail": "https://api.guangsuapi.com"
-    },
-    "jinyingzy.com": {
-      "name": "🎬金鹰资源(极速无广)",
-      "api": "https://ggbox.de5.net/?url=https://jinyingzy.com/api.php/provide/vod",
-      "detail": "https://jinyingzy.com"
     }
   }
 }
