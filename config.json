@@ -1,25 +1,25 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "wolong": {
-      "name": "🔥卧龙资源(4K纯净/无广)",
-      "api": "https://ggbox.de5.net/?url=https://wolongzyw.com/api.php/provide/vod",
-      "detail": "https://wolongzyw.com"
+    "yqs": {
+      "name": "🎬影奇森(4K原画专线)",
+      "api": "https://ggbox.de5.net/?url=https://api.yqshijue.com/api.php/provide/vod",
+      "detail": "https://www.yqshijue.com"
     },
-    "kuaiche": {
-      "name": "🚀快车资源(精品蓝光/秒开)",
-      "api": "https://ggbox.de5.net/?url=https://api.kczyapi.com/api.php/provide/vod",
-      "detail": "https://www.kczyapi.com"
+    "bjzy": {
+      "name": "🎬倍速资源(大厂/超清)",
+      "api": "https://ggbox.de5.net/?url=https://api.beisuzy.com/api.php/provide/vod",
+      "detail": "https://www.beisuzy.com"
     },
-    "suya": {
-      "name": "🎬素雅资源(高码率/大厂)",
-      "api": "https://ggbox.de5.net/?url=https://www.suyazy.com/api.php/provide/vod",
-      "detail": "https://www.suyazy.com"
+    "mizhi": {
+      "name": "🎬蜜汁资源(蓝光/纯净)",
+      "api": "https://ggbox.de5.net/?url=https://api.mizhiapi.com/api.php/provide/vod",
+      "detail": "https://www.mizhizy.com"
     },
-    "lezy": {
-      "name": "💎乐资源(原盘画质/极速)",
-      "api": "https://ggbox.de5.net/?url=https://cj.lezyapi.com/api.php/provide/vod",
-      "detail": "https://www.lezy.cc"
+    "tiankong": {
+      "name": "🎬天空资源(4K/不卡顿)",
+      "api": "https://ggbox.de5.net/?url=https://api.tiankongapi.com/api.php/provide/vod",
+      "detail": "https://www.tiankongzy.com"
     }
   }
 }
