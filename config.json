@@ -3,37 +3,37 @@
   "api_site": {
     "uku": {
       "name": "🎬U酷资源(秒播/国内CDN)",
-      "api": "https://ggbox.de5.net/?url=https://api.ukuapi88.com/api.php/provide/vod",
+      "api": "https://ggbox.de5.net/?url=https://api.ukuapi88.com/api.php/provide/vod/at/json",
       "detail": "https://ukzy.com"
     },
-    "okzy": {
-      "name": "🎬OK资源(老牌/稳定)",
-      "api": "https://ggbox.de5.net/?url=http://api.okzyw.net/api.php/provide/vod",
-      "detail": "http://okzyw.cc"
-    },
     "dbzy": {
-      "name": "🎬豆瓣资源(高清/M3U8)",
-      "api": "https://ggbox.de5.net/?url=https://caiji.dbzy5.com/api.php/provide/vod",
+      "name": "🎬豆瓣资源(稳定/M3U8)",
+      "api": "https://ggbox.de5.net/?url=https://caiji.dbzy5.com/api.php/provide/vod/at/json",
       "detail": "https://caiji.dbzy5.com"
     },
+    "okzy_fix": {
+      "name": "🎬OK资源(尝试修复版)",
+      "api": "https://ggbox.de5.net/?url=http://api.okzyw.net/api.php/provide/vod/at/json",
+      "detail": "http://okzyw.cc"
+    },
     "yzzy": {
-      "name": "🚀优质资源(无广/特殊接口)",
+      "name": "🚀优质资源(特殊接口)",
       "api": "https://ggbox.de5.net/?url=https://api.yzzy-api.com/inc/apijson.php",
       "detail": "https://api.yzzy-api.com"
     },
     "xjzy": {
       "name": "🔞小鸡资源[R18]",
-      "api": "https://ggbox.de5.net/?url=https://api.xjzyapi.xyz/provide/vod",
+      "api": "https://ggbox.de5.net/?url=https://api.xjzyapi.xyz/provide/vod/at/json",
       "detail": "https://xjzy.com"
     },
     "ckzy": {
       "name": "🔞CK百货[R18]",
-      "api": "https://ggbox.de5.net/?url=https://ckbh1.xyz/api.php/provide/vod",
+      "api": "https://ggbox.de5.net/?url=https://ckbh1.xyz/api.php/provide/vod/at/json",
       "detail": "https://ckbh1.xyz"
     },
     "91zy": {
       "name": "🔞91精品[R18]",
-      "api": "https://ggbox.de5.net/?url=https://91jpzyw.com/api.php/provide/vod",
+      "api": "https://ggbox.de5.net/?url=https://91jpzyw.com/api.php/provide/vod/at/json",
       "detail": "https://91jpzyw.com"
     }
   }
