@@ -1,60 +1,25 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "cnflix.tv": {
-      "name": "🎬CNFlix影视",
-      "api": "https://ggbox.de5.net/?url=https://www.cnflix.tv/api.php/provide/vod",
-      "detail": "https://www.cnflix.tv"
-    },
-    "cj.lzcaiji.com": {
-      "name": "🎬量子资源",
+    "lzcaiji.com": {
+      "name": "💎量子资源(4K/极速)",
       "api": "https://ggbox.de5.net/?url=https://cj.lzcaiji.com/api.php/provide/vod",
       "detail": "https://cj.lzcaiji.com"
     },
-    "ffzyapi.com": {
-      "name": "🎬非凡资源",
-      "api": "https://ggbox.de5.net/?url=https://api.ffzyapi.com/api.php/provide/vod",
-      "detail": "https://cj.ffzyapi.com"
-    },
     "hhzyapi.com": {
-      "name": "🎬豪华资源",
+      "name": "🎬豪华资源(无水蓝光)",
       "api": "https://ggbox.de5.net/?url=https://hhzyapi.com/api.php/provide/vod",
       "detail": "https://hhzyapi.com"
     },
-    "kczyapi.com": {
-      "name": "🎬快车资源",
-      "api": "https://ggbox.de5.net/?url=https://api.kczyapi.com/api.php/provide/vod",
-      "detail": "https://api.kczyapi.com"
+    "guangsuapi.com": {
+      "name": "⚡光速资源(高清专线)",
+      "api": "https://ggbox.de5.net/?url=https://api.guangsuapi.com/api.php/provide/vod",
+      "detail": "https://api.guangsuapi.com"
     },
-    "iqiyizyapi.com": {
-      "name": "🎬-爱奇艺-",
-      "api": "https://ggbox.de5.net/?url=https://iqiyizyapi.com/api.php/provide/vod",
-      "detail": "https://iqiyizyapi.com"
-    },
-    "dbzy.tv": {
-      "name": "🎬豆瓣资源",
-      "api": "https://ggbox.de5.net/?url=https://caiji.dbzy5.com/api.php/provide/vod",
-      "detail": "https://dbzy.tv"
-    },
-    "tyyszy.com": {
-      "name": "🎬天涯影视",
-      "api": "https://ggbox.de5.net/?url=https://tyyszy.com/api.php/provide/vod",
-      "detail": "https://tyyszy.com"
-    },
-    "mtzy.me": {
-      "name": "🎬茅台资源",
-      "api": "https://ggbox.de5.net/?url=https://caiji.maotaizy.cc/api.php/provide/vod",
-      "detail": "https://mtzy.me"
-    },
-    "wolongzyw.com": {
-      "name": "🎬卧龙资源",
-      "api": "https://ggbox.de5.net/?url=https://wolongzyw.com/api.php/provide/vod",
-      "detail": "https://wolongzyw.com"
-    },
-    "ikunzy.com": {
-      "name": "🎬iKun资源",
-      "api": "https://ggbox.de5.net/?url=https://ikunzyapi.com/api.php/provide/vod",
-      "detail": "https://ikunzy.com"
+    "jinyingzy.com": {
+      "name": "🎬金鹰资源(极速无广)",
+      "api": "https://ggbox.de5.net/?url=https://jinyingzy.com/api.php/provide/vod",
+      "detail": "https://jinyingzy.com"
     }
   }
 }
