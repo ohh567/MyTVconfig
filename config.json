@@ -11,6 +11,16 @@
       "api": "https://ggbox.de5.net/?url=https://caiji.dbzy5.com/api.php/provide/vod",
       "detail": "https://caiji.dbzy5.com"
     },
+    "modu": {
+      "name": "⛩️魔都动漫(画质天花板)",
+      "api": "https://ggbox.de5.net/?url=https://caiji.moduapi.cc/api.php/provide/vod",
+      "detail": "https://www.moduzy.net"
+    },
+    "yinghua": {
+      "name": "🌸樱花动漫(最全/老番)",
+      "api": "https://ggbox.de5.net/?url=https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "detail": "http://www.yhzy.cc"
+    },
     "xjzy": {
       "name": "🔞小鸡资源[R18]",
       "api": "https://ggbox.de5.net/?url=https://api.xjzyapi.xyz/provide/vod",
